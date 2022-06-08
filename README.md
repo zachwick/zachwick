@@ -14,7 +14,7 @@ I enjoying thinking about developer enablement and education through the lens of
 
 Aquaponics, and more generally indoor food crop production, fascinates me. I think that the increased need for foodstuffs and the adverse effects of human-induced climate change have created an environment where indoor food crop production is quickly becoming a booming field of exploration and rife for advancement (pun intended!).
 
-I also enjoy thinking about programming languages as notational forms of spoken human languages. I find it fascinating to look at programming languages such as [APL](https://en.wikipedia.org/wiki/APL_(programming_language), [Python](https://en.wikipedia.org/wiki/Python_(programming_language), [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language), [Catala](https://catala-lang.org/), and others from a language pedagogy point-of-view and use tools from linguistic studies to analyze programming languages.
+I also enjoy thinking about programming languages as notational forms of spoken human languages. I find it fascinating to look at programming languages such as [APL](https://en.wikipedia.org/wiki/APL_\(programming_language\)), [Python](https://en.wikipedia.org/wiki/Python_\(programming_language\)), [Ruby](https://en.wikipedia.org/wiki/Ruby_\(programming_language\)), [Catala](https://catala-lang.org/), and others from a language pedagogy point-of-view and use tools from linguistic studies to analyze programming languages.
 
 ## What do I want to learn?
 I want to learn more about automating indoor food crop production and aquaponic growing operations.
